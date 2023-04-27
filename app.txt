@@ -1,1 +1,2 @@
-This is my first app with version 1.
+This is my first app with version 2.Here I added some extra line to differnciate two file 
+ok,now it's ok.
